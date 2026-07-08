@@ -101,12 +101,12 @@ Benchmarked symmetry-aware GNNs on perovskite ordering energetics, and implement
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kritarth-Dandapat&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=00000000" height="165" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritarth-Dandapat&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000" height="165" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dkritarth&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=00000000" height="165" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkritarth&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000" height="165" alt="languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kritarth-Dandapat&hide_border=true&theme=tokyonight&background=00000000" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkritarth&hide_border=true&theme=tokyonight&background=00000000" alt="streak" />
 </div>
 
 ---
