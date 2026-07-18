@@ -46,8 +46,8 @@ My work has taken me from AI-assisted dental screening to scientific machine lea
 ### GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkritarth&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=00000000" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkritarth&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000" height="165" alt="Top languages"/>
+  <img src="./profile/stats.svg" height="165" alt="GitHub stats"/>
+  <img src="./profile/top-langs.svg" height="165" alt="Top languages"/>
 </div>
 
 If you're building something interesting, [say hello](mailto:contact@dkritarth.com).
