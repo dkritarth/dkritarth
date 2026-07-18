@@ -30,98 +30,27 @@
 
 ---
 
-## Who am I?
+```text
++---------------------------------------+
+|  KRITARTH.DANDAPAT                   |
+|  AI  /  SCIENCE  /  HEALTHCARE       |
++---------------------------------------+
+```
 
-I'm a CS researcher who genuinely enjoys building things that matter — whether that's a mobile app helping elderly patients get oral health screenings, a system tracking orthodontic progress remotely, or models helping scientists discover new materials faster.
+## Hey, I'm Kritarth 👋
 
-I just wrapped up an accelerated **3-year BS in Computer Science** at the University at Buffalo (yes, 3 years — it was a lot of coffee ☕), and I'm heading to **Michigan State University** this fall to start my PhD in the [Data Mining Lab](https://www.cse.msu.edu/~ptan/) under Dr. Pang-Ning Tan. I'll be working on spatiotemporal machine learning, deep learning-based weather forecasting, and AI adversarial robustness.
+I'm a PhD student at Michigan State University working at the intersection of **AI, science, and healthcare**. I enjoy taking ideas from research papers and notebooks and turning them into systems that people can actually use.
 
-The thing I find most interesting is the gap between a model that works in a notebook and a system that works in the real world. I've spent the last couple of years living in that gap — and I wouldn't have it any other way.
+My work has taken me from AI-assisted dental screening to scientific machine learning, satellite imagery, and the occasional Formula 1 experiment. This GitHub is where I keep the projects, prototypes, and experiments along the way.
 
-> *Check out everything I'm up to at **[dkritarth.com](https://dkritarth.com)** ✨*
-
----
-
-## 🔬 What I've been building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🦷 Mobile Health AI @ [ESC Group, UB](https://cse.buffalo.edu/~wenyaoxu/index.html)**
-
-Built **OralScan** — a mobile app with YOLOv8 vision pipelines for geriatric dental screening. Then **OrthoScan** for remote orthodontic monitoring using 3D GNNs. Currently working on **[mRehab](https://mrehab.agency/)** — a telerehab platform with AWS backend and Kalman filter-based activity detection from wearables.
-
-*Co-authored a paper submitted to Smart Health.*
-
-</td>
-<td width="50%" valign="top">
-
-**⚗️ Materials ML @ [Peng Lab, UB](https://ubwp.buffalo.edu/jiayu-peng-lab/)**
-
-Benchmarked symmetry-aware GNNs on perovskite ordering energetics, and implementing E(3)-equivariant interatomic potentials with alchemical graph extensions. Co-authored a [ChemRxiv paper](https://doi.org/10.26434/chemrxiv-2025-13n3f) on agentic AI for catalyst discovery.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Projects I'm proud of
+### GitHub activity
 
 <div align="center">
-
-| 🏎️ [PaddockPsychRL](https://dkritarth.com/PaddockPsychRL/) | 🛸 Marine Guardian | 🦷 OralScan |
-|---|---|---|
-| Multi-agent RL where real F1 lap-time data shapes agent psychology. MAPPO psych-conditioned policies improved Strategy Resilience Score by **+16.7%** | Ship detection in satellite imagery — **98.72% accuracy** using a geometry-first pipeline before going deep | AI dental screening app — **2nd place** at UB Health Futures Challenge |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=dkritarth&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=00000000" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkritarth&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000" height="165" alt="Top languages"/>
 </div>
 
----
-
-## 🛠️ Things I work with
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkritarth&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=00000000" height="165" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkritarth&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000" height="165" alt="languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkritarth&hide_border=true&theme=tokyonight&background=00000000" alt="streak" />
-</div>
-
----
-
-## A bit more about me
-
-I did my undergrad in 3 years (21–22 credits a semester) while TAing, tutoring, and running two research positions simultaneously. Somehow I also found time to build a side project about Formula 1 driver psychology. I think the best researchers are the ones who can't stop being curious about things outside their main field — and I'm working hard to stay that way.
-
-If you're working on something at the intersection of spatiotemporal ML, scientific ML, or AI for health — I'd love to chat. My inbox is always open 🙂
-
-<div align="center">
-  <a href="https://dkritarth.com">
-    <img src="https://img.shields.io/badge/See%20more%20at%20dkritarth.com-1E50A0?style=for-the-badge&logoColor=white" alt="Website"/>
-  </a>
-</div>
+If you're building something interesting, [say hello](mailto:contact@dkritarth.com).
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1E50A0&height=80&section=footer" alt="footer wave" />
