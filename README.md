@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Kritarth-Dandapat">
+  <a href="https://github.com/dkritarth">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
@@ -25,7 +25,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kritarth-Dandapat&style=flat-square&color=1E50A0&label=profile+views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dkritarth&style=flat-square&color=1E50A0&label=profile+views" alt="profile views" />
 </div>
 
 ---
