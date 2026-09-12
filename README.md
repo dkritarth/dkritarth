@@ -8,7 +8,7 @@
 
 <div align="center">
 
-Incoming PhD student at Michigan State's [Data Mining Lab](https://www.cse.msu.edu/~ptan/), working on spatiotemporal ML and health AI. I like building things that outlive the notebook — mobile health apps, materials science models, tools for my own workflow. Currently splitting time between labs at UB before the move to East Lansing this fall.
+PhD student at Michigan State's [Data Mining Lab](https://www.cse.msu.edu/~ptan/). I like building things that outlive the notebook — mobile health apps, materials science models, tools for my own workflow.
 
 </div>
 
